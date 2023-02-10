@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for seiftaalab	</title>
-	<atom:link href="https://seiffox.github.io/wpdatabase/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://seiffox.github.io/wpdatabase/</link>
+	<atom:link href="https://seiftaalab.me/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://seiftaalab.me</link>
 	<description>aerospace engineer </description>
 	<lastBuildDate>Thu, 28 Jul 2022 08:40:37 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>https://seiffox.github.io/wpdatabase/2022/07/28/hello-world/#comment-2</link>
+		<link>https://seiftaalab.me/2022/07/28/hello-world/#comment-2</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Thu, 28 Jul 2022 08:40:37 +0000</pubDate>
