@@ -8,19 +8,19 @@
 <channel>
 	<title>
 	Comments for seiftaalab	</title>
-	<atom:link href="https://seiftaalab.me/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://seiftaalab.me/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
 	<description>aerospace engineer </description>
 	<lastBuildDate>Thu, 28 Jul 2022 08:40:37 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 	<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>https://seiftaalab.me/2022/07/28/hello-world/#comment-2</link>
+		<link>./../../2022/07/28/hello-world/index.html#comment-2</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Thu, 28 Jul 2022 08:40:37 +0000</pubDate>

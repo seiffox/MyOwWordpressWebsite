@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://seiftaalab.me/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="./main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>https://seiftaalab.me/post-sitemap.xml</loc>
+		<loc>./post-sitemap.xml</loc>
 		<lastmod>2022-07-28T08:40:37+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://seiftaalab.me/page-sitemap.xml</loc>
-		<lastmod>2023-02-13T13:24:54+00:00</lastmod>
+		<loc>./page-sitemap.xml</loc>
+		<lastmod>2023-06-19T22:59:54+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://seiftaalab.me/project-sitemap.xml</loc>
+		<loc>./project-sitemap.xml</loc>
 		<lastmod>2022-07-29T12:10:40+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://seiftaalab.me/category-sitemap.xml</loc>
+		<loc>./category-sitemap.xml</loc>
 		<lastmod>2022-07-28T08:40:37+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://seiftaalab.me/author-sitemap.xml</loc>
+		<loc>./author-sitemap.xml</loc>
 		<lastmod>2023-02-08T18:24:20+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
