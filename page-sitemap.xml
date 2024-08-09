@@ -1,88 +1,103 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="./main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://seiffox.github.io/wpdatabase/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>./index.html</loc>
-		<lastmod>2023-06-19T22:52:50+00:00</lastmod>
+		<loc>https://seiffox.github.io/wpdatabase/</loc>
+		<lastmod>2024-08-09T16:35:36+00:00</lastmod>
 		<image:image>
-			<image:loc>./wp-content/uploads/2022/07/decorative-line-1.svg</image:loc>
+			<image:loc>https://seiffox.github.io/wpdatabase/wp-content/uploads/2022/07/decorative-line-1.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2023/06/WhatsApp_Image_2023-06-19_at_22.18.03-removebg-preview-1.png</image:loc>
+			<image:loc>https://seiffox.github.io/wpdatabase/wp-content/uploads/2023/06/WhatsApp_Image_2023-06-19_at_22.18.03-removebg-preview-1.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2023/06/download.png</image:loc>
+			<image:loc>https://seiffox.github.io/wpdatabase/wp-content/uploads/2023/06/download.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2023/02/medium.png</image:loc>
+			<image:loc>https://seiffox.github.io/wpdatabase/wp-content/uploads/2023/02/medium.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2023/02/2721264.png</image:loc>
+			<image:loc>https://seiffox.github.io/wpdatabase/wp-content/uploads/2023/02/2721264.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2023/02/images__1_-removebg-preview.png</image:loc>
+			<image:loc>https://seiffox.github.io/wpdatabase/wp-content/uploads/2024/08/embedded-logo.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2023/02/Python.svg.png</image:loc>
+			<image:loc>https://seiffox.github.io/wpdatabase/wp-content/uploads/2023/02/Python.svg.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2023/02/altium-designer.png</image:loc>
+			<image:loc>https://seiffox.github.io/wpdatabase/wp-content/uploads/2023/02/altium-designer.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2023/02/images-removebg-preview.png</image:loc>
+			<image:loc>https://seiffox.github.io/wpdatabase/wp-content/uploads/2023/02/images-removebg-preview.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2023/02/1000_F_204225754_QJIMvIg5Y3BLpODnyXUBxir6TdG2nWF3.jpg</image:loc>
+			<image:loc>https://seiffox.github.io/wpdatabase/wp-content/uploads/2024/08/ANSYS_logo.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2023/02/IMG-20220506-WA0034-removebg-preview.png</image:loc>
+			<image:loc>https://seiffox.github.io/wpdatabase/wp-content/uploads/2023/02/1000_F_204225754_QJIMvIg5Y3BLpODnyXUBxir6TdG2nWF3.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://seiffox.github.io/wpdatabase/wp-content/uploads/2023/02/IMG-20220506-WA0034-removebg-preview.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>./about/index.html</loc>
+		<loc>https://seiffox.github.io/wpdatabase/about/</loc>
 		<lastmod>2023-06-19T22:56:33+00:00</lastmod>
 		<image:image>
-			<image:loc>./wp-content/uploads/2022/07/decorative-line-1.svg</image:loc>
+			<image:loc>https://seiffox.github.io/wpdatabase/wp-content/uploads/2022/07/decorative-line-1.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2023/02/IMG_20210318_002001_045-removebg-preview1-1.png</image:loc>
+			<image:loc>https://seiffox.github.io/wpdatabase/wp-content/uploads/2023/02/IMG_20210318_002001_045-removebg-preview1-1.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>./projects/index.html</loc>
-		<lastmod>2023-06-19T22:57:41+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2022/07/decorative-line-1.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/02/me-with-planeremoved-background-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/02/Python.svg.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/02/plane-2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/02/arduinos-bekathwia-via-instructables-220318.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/02/Front-End.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/02/solidbottle-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2023/02/IMG-20220506-WA0034-removebg-preview.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>./contacts/index.html</loc>
+		<loc>https://seiffox.github.io/wpdatabase/contacts/</loc>
 		<lastmod>2023-06-19T22:59:54+00:00</lastmod>
 		<image:image>
-			<image:loc>./wp-content/uploads/2022/07/decorative-line-1.svg</image:loc>
+			<image:loc>https://seiffox.github.io/wpdatabase/wp-content/uploads/2022/07/decorative-line-1.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2023/06/WhatsApp_Image_2023-06-19_at_22.18.26-removebg-preview.png</image:loc>
+			<image:loc>https://seiffox.github.io/wpdatabase/wp-content/uploads/2023/06/WhatsApp_Image_2023-06-19_at_22.18.26-removebg-preview.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://seiffox.github.io/wpdatabase/projects/</loc>
+		<lastmod>2024-08-09T17:00:23+00:00</lastmod>
+		<image:image>
+			<image:loc>https://seiffox.github.io/wpdatabase/wp-content/uploads/2022/07/decorative-line-1.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://seiffox.github.io/wpdatabase/wp-content/uploads/2023/02/me-with-planeremoved-background-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://seiffox.github.io/wpdatabase/wp-content/uploads/2023/02/Python.svg.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://seiffox.github.io/wpdatabase/wp-content/uploads/2024/08/eb.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://seiffox.github.io/wpdatabase/wp-content/uploads/2024/08/tvc.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://seiffox.github.io/wpdatabase/wp-content/uploads/2023/02/plane-2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://seiffox.github.io/wpdatabase/wp-content/uploads/2023/02/arduinos-bekathwia-via-instructables-220318.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://seiffox.github.io/wpdatabase/wp-content/uploads/2023/02/Front-End.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://seiffox.github.io/wpdatabase/wp-content/uploads/2023/02/solidbottle-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://seiffox.github.io/wpdatabase/wp-content/uploads/2024/08/auto.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://seiffox.github.io/wpdatabase/wp-content/uploads/2024/08/gp.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://seiffox.github.io/wpdatabase/wp-content/uploads/2023/02/IMG-20220506-WA0034-removebg-preview.png</image:loc>
 		</image:image>
 	</url>
 </urlset>

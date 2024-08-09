@@ -8,19 +8,19 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<atom:link href="https://seiffox.github.io/wpdatabase/2022/07/28/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>https://seiffox.github.io/wpdatabase/2022/07/28/hello-world/</link>
 	<description>aerospace engineer </description>
 	<lastBuildDate>Thu, 28 Jul 2022 08:40:37 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 	<item>
 		<title>
 		By: A WordPress Commenter		</title>
-		<link>./../index.html#comment-2</link>
+		<link>https://seiffox.github.io/wpdatabase/2022/07/28/hello-world/#comment-2</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Thu, 28 Jul 2022 08:40:37 +0000</pubDate>
